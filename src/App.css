@@ -1,5 +1,22 @@
 .App {
   text-align: center;
+  width: 50%;
+  margin: auto;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.App button {
+  margin-left: 10px;
+  width: 100px;
+  height: 42px;
+  border: none;
+  border-radius: 20px;
+  background-color: teal;
+  color: white;
 }
 
 .App-logo {
