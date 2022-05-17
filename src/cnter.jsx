@@ -7,12 +7,12 @@ const Counter = () => {
     if(count%2==0)
     {
        var style1 ={
-        color:'red'
+        color:'green'
         }
         console.log("even")
     }else{
         var style1 ={
-            color:'green'
+            color:'red'
             }
         console.log("Odd")
     }
